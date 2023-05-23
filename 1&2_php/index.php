@@ -1,5 +1,5 @@
 <?php
 
-echo 'WordPress Support';
+echo 'WordPress Support Sh';
 
 ?>
