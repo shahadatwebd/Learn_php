@@ -1,4 +1,5 @@
 <?php
 
-print 'WordPress Support';
+echo 'WordPress Support';
 
+?>
